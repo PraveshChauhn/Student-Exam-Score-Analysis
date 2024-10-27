@@ -6,14 +6,14 @@ This project analyzes student exam scores from a provided dataset. The goal is t
 
 The code utilizes Python libraries like pandas (pd), NumPy (np), seaborn (sns), and matplotlib (plt) to perform the following tasks:
 
-> Import Libraries: Import necessary libraries for data manipulation and analysis.
-> Load Data: Load the student exam score data from a CSV file using pandas read_csv function.
-> Data Exploration:
-  Print the first few rows of the data using df.head() to get an initial glimpse.
-  Use df.describe() to obtain summary statistics of numerical features like mean, standard deviation, minimum, maximum, etc.
+Import Libraries: Import necessary libraries for data manipulation and analysis.
+Load Data: Load the student exam score data from a CSV file using pandas read_csv function.
+Data Exploration:
+Print the first few rows of the data using df.head() to get an initial glimpse.
+Use df.describe() to obtain summary statistics of numerical features like mean, standard deviation, minimum, maximum, etc.
 (Optional) Data Cleaning: Depending on the data quality, you might need to handle missing values, outliers, or other data inconsistencies.
 (Optional) Data Visualization: Create visualizations like histograms, scatter plots, boxplots, etc., using seaborn or matplotlib to explore relationships between variables and identify patterns in the data.
- Analysis and Interpretation: Analyze the results from data exploration and visualizations to draw conclusions about student performance and identify areas for improvement.
+Analysis and Interpretation: Analyze the results from data exploration and visualizations to draw conclusions about student performance and identify areas for improvement.
 
 # Requirements
 
